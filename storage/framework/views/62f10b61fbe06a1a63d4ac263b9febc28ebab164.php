@@ -1,0 +1,1 @@
+<h1>ceva</h1><?php /**PATH C:\laragon\www\INNA\resources\views/pages/user/add.blade.php ENDPATH**/ ?>
